@@ -8,13 +8,10 @@ Hello 👋 I am a student majoring in Information Science & Data Science at the 
 
 ### 💻 Featured Project
 
-**🎥 [CineStage](https://github.com/CyberA183/cine-stage)**  
+**🎥 [CineStage](https://github.com/CyberA183/cine-stage)** *In Progress*   
 CineStage is an AI-powered app that recommends movies based on user preferences and predicts a film's potential to win prestigious awards like the Oscars and Golden Globes. Using advanced narrative analysis, award prediction algorithms, and a greenlight decision engine, it evaluates scripts, forecasts audience engagement, and suggests strategic adjustments for filmmakers.  
-> [!NOTE]
-> This project is still in progress!
 
 ### 🛠 Tools  
-
 **Languages:** Python, SQL, HTML5, Java, Javscript  
 **Frameworks & Libraries:** Seaborn, NumPy, Scikit-Learn, MongoDB  
 **Software & Tools:** PowerBI, Looker, Adobe Suite, Figma  
