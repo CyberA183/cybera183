@@ -4,7 +4,7 @@ Hello 👋 I am a student majoring in Information Science & Data Science at the 
 
 💼 I am currently working as an analyst intern, using Looker and the Google Cloud Platform (GCP) to analyze data, create reports, and build dashboards.
 
-**🛠 Tools**  
+###🛠 Tools
 **Languages:** Python, SQL, HTML5, Java, Javscript  
 **Frameworks & Libraries:** Seaborn, NumPy, Scikit-Learn, MongoDB  
 **Software & Tools:** PowerBI, Looker, Adobe Suite, Figma  
