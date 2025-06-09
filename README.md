@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ariel Thompson
 
-<!--
-**CyberA183/cybera183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋 I am a student majoring in Information Science & Data Science at the University of Tennessee, Knoxville. I'm passionate about using machine learning, data engineering, and my sense of artistry to find solutions to real-world problems.
 
-Here are some ideas to get you started:
+💼 I am currently working as an analyst intern, using Looker and the Google Cloud Platform (GCP) to analyze data, create reports, and build dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Tools**
+**Languages:** Python, SQL, HTML5, Java, Javscript
+**Frameworks & Libraries:** Seaborn, NumPy, Scikit-Learn, MongoDB
+**Software & Tools:** PowerBI, Looker, Adobe Suite, Figma
+
+You can check out my [projects](https://github.com/CyberA183/Project-Guide) and my [LinkedIn](https://www.linkedin.com/in/ariel-thompson/).
+
+
