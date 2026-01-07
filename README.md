@@ -10,12 +10,13 @@ Hello 👋 I am a student majoring in Information Science & Data Science at the 
 
 **🎥 [CineStage](https://github.com/CyberA183/cine-stage)**  
 *In Progress*   
-CineStage is an AI-powered app that recommends movies based on user preferences and predicts a film's potential to win prestigious awards like the Oscars and Golden Globes. Using advanced narrative analysis, award prediction algorithms, and a greenlight decision engine, it evaluates scripts, forecasts audience engagement, and suggests strategic adjustments for filmmakers.  
+CineStage is About
+A multi-faceted project that analyzes a variety of factors - such as actor prestige, past nominations and wins, and audience popularity - to determine which movies have a chance of winning an Oscar.
 
 ### 🛠 Tools  
-**Languages:** Python, SQL, HTML5, Java, Javscript  
-**Frameworks & Libraries:** Seaborn, NumPy, Scikit-Learn, MongoDB  
-**Software & Tools:** PowerBI, Looker, Adobe Suite, Figma  
+**Languages:** Python, SQL, R, HTML5, Java, Javscript  
+**Frameworks & Libraries:** Seaborn, NumPy, Scikit-Learn, MongoDB, Supabase, React
+**Software & Tools:** PowerBI, Looker, Tableau, Adobe Suite, Figma  
 
 You can check out my [projects](https://github.com/CyberA183/Project-Guide) and my [LinkedIn](https://www.linkedin.com/in/ariel-thompson/).
 
