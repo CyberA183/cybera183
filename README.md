@@ -10,8 +10,7 @@ Hello 👋 I am a student majoring in Information Science & Data Science at the 
 
 **🎥 [CineStage](https://github.com/CyberA183/cine-stage)**  
 *In Progress*   
-CineStage is About
-A multi-faceted project that analyzes a variety of factors - such as actor prestige, past nominations and wins, and audience popularity - to determine which movies have a chance of winning an Oscar.
+CineStage is a multi-faceted project that analyzes a variety of factors - such as actor prestige, past nominations and wins, and audience popularity - to determine which movies have a chance of winning an Oscar.
 
 ### 🛠 Tools  
 **Languages:** Python, SQL, R, HTML5, Java, Javscript  
